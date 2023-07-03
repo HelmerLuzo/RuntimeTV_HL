@@ -5,9 +5,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3058
 #EXTINF:-1 tvg-id="runtime-thriller" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_thriller_16x9.jpg" group-title="" , Runtime Thriller
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3054
-#EXTINF:-1 tvg-id="cines-verdi" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/cines_verdi_-_logo_fondo_opcion_2_0.jpg" group-title="" , Cines Verdi
+#EXTINF:-1 tvg-id="cines-verdi" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/logo_verdi_tv_fila_canales_1920x1080.jpg" group-title="" , Cines Verdi
 https://daiconnect.com/live/hls/tvup/rt-cv/.m3u8?DAdID={{DEVICE_ID}}
-#EXTINF:-1 tvg-id="feelgood" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/verdi_feel_good_-_fondo_logo_opcion_2_0.jpg" group-title="" , FeelGood
+#EXTINF:-1 tvg-id="feelgood" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/logo_feel_good_fila_canales_1920x1080.jpg" group-title="" , FeelGood
 https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8?DAdID={{DEVICE_ID}}
 #EXTINF:-1 tvg-id="runtime-comedia-1" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_comedia_16x9.jpg" group-title="" , Runtime Comedia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3057

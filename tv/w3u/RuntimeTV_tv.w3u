@@ -1,6 +1,6 @@
 {
     "name": "Runtime TV by HL",
-    "author": "Actualizada 03/07/2023 10:15",
+    "author": "Actualizada 03/07/2023 16:15",
     "epg": "https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz",
     "image": "https://helmerluzo.github.io/RuntimeTV_HL/runtime.png",
     "url": "https://helmerluzo.github.io/RuntimeTV_HL/tv/w3u/RuntimeTV_tv.w3u",
@@ -25,13 +25,13 @@
         },
         {
             "name": "Cines Verdi",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/cines_verdi_-_logo_fondo_opcion_2_0.jpg",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/logo_verdi_tv_fila_canales_1920x1080.jpg",
             "url": "https://daiconnect.com/live/hls/tvup/rt-cv/.m3u8?DAdID={{DEVICE_ID}}",
             "epgId": "cines-verdi"
         },
         {
             "name": "FeelGood",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/verdi_feel_good_-_fondo_logo_opcion_2_0.jpg",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/logo_feel_good_fila_canales_1920x1080.jpg",
             "url": "https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8?DAdID={{DEVICE_ID}}",
             "epgId": "feelgood"
         },
