@@ -1,33 +1,15 @@
 {
     "name": "Runtime TV by HL",
-    "author": "Actualizada 29/08/2023 04:15",
+    "author": "Actualizada 29/08/2023 10:15",
     "epg": "https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz",
     "image": "https://helmerluzo.github.io/RuntimeTV_HL/runtime.png",
     "url": "https://helmerluzo.github.io/RuntimeTV_HL/tv/w3u/RuntimeTV_tv.w3u",
     "stations": [
         {
-            "name": "Vive Kanal D Drama",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/vive_kdd_logo-1920x0180_-_ankit_sinha_6.jpg",
-            "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanalddrama-runtimeusa/playlist.m3u8?ip=185.253.99.187",
-            "epgId": "vive-kanal-d-drama-0"
-        },
-        {
-            "name": "Corazón",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/corazon_1920x1080.png",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826",
-            "epgId": "corazon"
-        },
-        {
             "name": "Runtime",
             "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_es_1920x1080_0.jpg",
             "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152",
             "epgId": "runtime-4"
-        },
-        {
-            "name": "Runtime Clásicos",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_clasicos_16x9.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053",
-            "epgId": "runtime-clasicos"
         },
         {
             "name": "Cines Verdi",
@@ -36,10 +18,10 @@
             "epgId": "cines-verdi"
         },
         {
-            "name": "FeelGood",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/logo_feel_good_fila_canales_1920x1080.jpg",
-            "url": "https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8?DAdID={{DEVICE_ID}}",
-            "epgId": "feelgood"
+            "name": "Runtime Acción",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_accion_16x9.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3058",
+            "epgId": "runtime-accion-0"
         },
         {
             "name": "Film&Co",
@@ -48,40 +30,16 @@
             "epgId": "filmco"
         },
         {
-            "name": "Cinema",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/c0TigcKgF60wy9rr2T6bcc2LzOMuKpkG9zvXqhqeIao.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829",
-            "epgId": "cinema"
+            "name": "Runtime Clásicos",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_clasicos_16x9.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053",
+            "epgId": "runtime-clasicos"
         },
         {
-            "name": "Runtime Acción",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_accion_16x9.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3058",
-            "epgId": "runtime-accion-0"
-        },
-        {
-            "name": "Runtime Thriller",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_thriller_16x9.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3054",
-            "epgId": "runtime-thriller"
-        },
-        {
-            "name": "Runtime Comedia",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_comedia_16x9.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3057",
-            "epgId": "runtime-comedia-1"
-        },
-        {
-            "name": "Runtime Romance",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance_16x9.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056",
-            "epgId": "runtime-romance"
-        },
-        {
-            "name": "Runtime Series ",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_series_16x9_0.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3434",
-            "epgId": "runtime-series"
+            "name": "FeelGood",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/logo_feel_good_fila_canales_1920x1080.jpg",
+            "url": "https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8?DAdID={{DEVICE_ID}}",
+            "epgId": "feelgood"
         },
         {
             "name": "Pocoyó",
@@ -94,6 +52,48 @@
             "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/pitufotv_1920x1080_1.png",
             "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5444",
             "epgId": "pitufo-tv"
+        },
+        {
+            "name": "Runtime Comedia",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_comedia_16x9.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3057",
+            "epgId": "runtime-comedia-1"
+        },
+        {
+            "name": "Vive Kanal D Drama",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/vive_kdd_logo-1920x0180_-_ankit_sinha_6.jpg",
+            "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanalddrama-runtimeusa/playlist.m3u8?ip=37.120.142.232",
+            "epgId": "vive-kanal-d-drama-0"
+        },
+        {
+            "name": "Corazón",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/corazon_1920x1080.png",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826",
+            "epgId": "corazon"
+        },
+        {
+            "name": "Cinema",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/c0TigcKgF60wy9rr2T6bcc2LzOMuKpkG9zvXqhqeIao.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829",
+            "epgId": "cinema"
+        },
+        {
+            "name": "Runtime Thriller",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_thriller_16x9.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3054",
+            "epgId": "runtime-thriller"
+        },
+        {
+            "name": "Runtime Romance",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance_16x9.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056",
+            "epgId": "runtime-romance"
+        },
+        {
+            "name": "Runtime Series ",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_series_16x9_0.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3434",
+            "epgId": "runtime-series"
         },
         {
             "name": "Runtime Trash",
