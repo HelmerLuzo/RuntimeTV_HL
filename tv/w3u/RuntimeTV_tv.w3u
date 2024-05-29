@@ -1,6 +1,6 @@
 {
     "name": "Runtime TV by HL",
-    "author": "Actualizada 29/05/2024 16:15",
+    "author": "Actualizada 29/05/2024 22:15",
     "epg": "https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz",
     "image": "https://helmerluzo.github.io/RuntimeTV_HL/runtime.png",
     "url": "https://helmerluzo.github.io/RuntimeTV_HL/tv/w3u/RuntimeTV_tv.w3u",
@@ -14,7 +14,7 @@
         {
             "name": "MyTime Movie Network",
             "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg",
-            "url": " https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.253.99.165",
+            "url": " https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=37.120.142.230",
             "epgId": "mytime-movie-network"
         },
         {
@@ -103,14 +103,14 @@
         },
         {
             "name": "Pitufo TV",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/IAcrti9LP1pcniiZfCdv6VHI3JqW8LOQdUsoyUdF0rQ.jpg",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/frNx2DfR11womim_Wb9dQQy8GqFDysPrcOHXmWwhnig.jpg",
             "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5444",
             "epgId": "pitufo-tv"
         },
         {
             "name": "Vive Kanal D Drama",
             "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/vive_kdd_logo-1920x0180_-_ankit_sinha_6.jpg",
-            "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanalddrama-runtimeusa/playlist.m3u8?ip=185.253.99.165",
+            "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanalddrama-runtimeusa/playlist.m3u8?ip=37.120.142.230",
             "epgId": "vive-kanal-d-drama-0"
         },
         {
