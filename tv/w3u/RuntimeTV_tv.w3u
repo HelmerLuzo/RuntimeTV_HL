@@ -1,6 +1,6 @@
 {
     "name": "Runtime TV by HL",
-    "author": "Actualizada 06/10/2024 16:15",
+    "author": "Actualizada 06/10/2024 22:15",
     "epg": "https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz",
     "image": "https://helmerluzo.github.io/RuntimeTV_HL/runtime.png",
     "url": "https://helmerluzo.github.io/RuntimeTV_HL/tv/w3u/RuntimeTV_tv.w3u",
@@ -80,7 +80,7 @@
         {
             "name": "Vive Kanal D Drama",
             "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/vive_kdd_logo-1920x0180_-_ankit_sinha_6.jpg",
-            "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanalddrama-runtimeusa/playlist.m3u8?ip=82.102.17.140",
+            "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanalddrama-runtimeusa/playlist.m3u8?ip=82.102.17.141",
             "epgId": "vive-kanal-d-drama-0"
         },
         {
@@ -92,7 +92,7 @@
         {
             "name": "MyTime Movie Network",
             "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg",
-            "url": " https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=82.102.17.140",
+            "url": " https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=82.102.17.141",
             "epgId": "mytime-movie-network"
         },
         {
