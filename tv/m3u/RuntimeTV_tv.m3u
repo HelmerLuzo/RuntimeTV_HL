@@ -23,8 +23,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6132
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=130.195.250.117
 #EXTINF:-1 tvg-id="sangre-fria" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/f5457ac0-sangre_fria_1920x1080_0.jpg" group-title="" , Sangre Fría
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6130
-#EXTINF:-1 tvg-id="cinema" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/EK9aZjZ1ZauSbrscsQm-o9wYSvgoY8k861H04hY1JDA.jpg" group-title="" , Cinema
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 #EXTINF:-1 tvg-id="runtime-clasicos" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_clasicos_16x9.jpg" group-title="" , Runtime Clásicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
 #EXTINF:-1 tvg-id="vive-kanal-d-drama-0" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/vive_kdd_logo-1920x0180_-_ankit_sinha_6.jpg" group-title="" , Vive Kanal D Drama
