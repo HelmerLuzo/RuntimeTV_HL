@@ -1,6 +1,6 @@
 {
     "name": "Runtime TV by HL",
-    "author": "Actualizada 02/12/2024 10:15",
+    "author": "Actualizada 02/12/2024 16:15",
     "epg": "https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz",
     "image": "https://helmerluzo.github.io/RuntimeTV_HL/runtime.png",
     "url": "https://helmerluzo.github.io/RuntimeTV_HL/tv/w3u/RuntimeTV_tv.w3u",
@@ -10,6 +10,42 @@
             "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_es_1920x1080_0.jpg",
             "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152",
             "epgId": "runtime-4"
+        },
+        {
+            "name": "Runtime Familia",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_christmas_16x9.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647",
+            "epgId": "runtime-familia-1"
+        },
+        {
+            "name": "FeelGood",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/logo_feel_good_fila_canales_1920x1080.jpg",
+            "url": "https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8?DAdID={{DEVICE_ID}}",
+            "epgId": "feelgood"
+        },
+        {
+            "name": "Runtime Comedia",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_comedia_16x9.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6131",
+            "epgId": "runtime-comedia-1"
+        },
+        {
+            "name": "Pocoyó",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/pocoyo_-_logo_y_fondo_0.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5626",
+            "epgId": "pocoyo"
+        },
+        {
+            "name": "Pitufo TV",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/TxUqwHp98ZT1G1xma7ioVKOrdkIuU4EreyDyarXMRTw.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5444",
+            "epgId": "pitufo-tv"
+        },
+        {
+            "name": "Runtime Romance",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance_16x9.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056",
+            "epgId": "runtime-romance"
         },
         {
             "name": "Runtime Acción",
@@ -34,24 +70,6 @@
             "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_crimen_16x9.jpg",
             "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527",
             "epgId": "runtime-crimen"
-        },
-        {
-            "name": "FeelGood",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/logo_feel_good_fila_canales_1920x1080.jpg",
-            "url": "https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8?DAdID={{DEVICE_ID}}",
-            "epgId": "feelgood"
-        },
-        {
-            "name": "Runtime Romance",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance_16x9.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056",
-            "epgId": "runtime-romance"
-        },
-        {
-            "name": "Runtime Comedia",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_comedia_16x9.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6131",
-            "epgId": "runtime-comedia-1"
         },
         {
             "name": "Film&Co",
@@ -100,24 +118,6 @@
             "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_curro_jimenez_16x9_v2.jpg",
             "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3435",
             "epgId": "curro-jimenez"
-        },
-        {
-            "name": "Pocoyó",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/pocoyo_-_logo_y_fondo_0.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5626",
-            "epgId": "pocoyo"
-        },
-        {
-            "name": "Runtime Familia",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9_0.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647",
-            "epgId": "runtime-familia-1"
-        },
-        {
-            "name": "Pitufo TV",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/TxUqwHp98ZT1G1xma7ioVKOrdkIuU4EreyDyarXMRTw.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5444",
-            "epgId": "pitufo-tv"
         },
         {
             "name": "Corazón",
