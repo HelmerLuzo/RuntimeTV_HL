@@ -1,6 +1,6 @@
 {
     "name": "Runtime TV by HL",
-    "author": "Actualizada 08/02/2025 10:15",
+    "author": "Actualizada 08/02/2025 16:15",
     "epg": "https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz",
     "image": "https://helmerluzo.github.io/RuntimeTV_HL/runtime.png",
     "url": "https://helmerluzo.github.io/RuntimeTV_HL/tv/w3u/RuntimeTV_tv.w3u",
@@ -70,60 +70,6 @@
             "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_curro_jimenez_16x9_v2.jpg",
             "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3435",
             "epgId": "curro-jimenez"
-        },
-        {
-            "name": "Film&Co",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/filmco_-_logo_y_fondo_0.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5625",
-            "epgId": "filmco"
-        },
-        {
-            "name": "Runtime Acción",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_accion_16x9.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6125",
-            "epgId": "runtime-accion-0"
-        },
-        {
-            "name": "Runtime Thriller",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_thriller_16x9.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6120",
-            "epgId": "runtime-thriller"
-        },
-        {
-            "name": "Runtime Familia",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9_1.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647",
-            "epgId": "runtime-familia-1"
-        },
-        {
-            "name": "Pocoyó",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/pocoyo_-_logo_y_fondo_0.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5626",
-            "epgId": "pocoyo"
-        },
-        {
-            "name": "Pitufo TV",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/TxUqwHp98ZT1G1xma7ioVKOrdkIuU4EreyDyarXMRTw.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5444",
-            "epgId": "pitufo-tv"
-        },
-        {
-            "name": "Runtime Clásicos",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_clasicos_16x9.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053",
-            "epgId": "runtime-clasicos"
-        },
-        {
-            "name": "Sangre Fría",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/f5457ac0-sangre_fria_1920x1080_0.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6130",
-            "epgId": "sangre-fria"
-        },
-        {
-            "name": "Runtime Crimen",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_crimen_16x9.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527",
-            "epgId": "runtime-crimen"
         }
     ]
 }
