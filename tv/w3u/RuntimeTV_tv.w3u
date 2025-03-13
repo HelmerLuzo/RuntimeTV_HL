@@ -1,6 +1,6 @@
 {
     "name": "Runtime TV by HL",
-    "author": "Actualizada 13/03/2025 16:15",
+    "author": "Actualizada 13/03/2025 22:15",
     "epg": "https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz",
     "image": "https://helmerluzo.github.io/RuntimeTV_HL/runtime.png",
     "url": "https://helmerluzo.github.io/RuntimeTV_HL/tv/w3u/RuntimeTV_tv.w3u",
@@ -91,7 +91,7 @@
         },
         {
             "name": "Pitufo TV",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/TxUqwHp98ZT1G1xma7ioVKOrdkIuU4EreyDyarXMRTw.jpg",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/NVNGGNGUbD_WstsN1zdorVk_0OrAe0O2Gu51HQLePPU.jpg",
             "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5444",
             "epgId": "pitufo-tv"
         },
