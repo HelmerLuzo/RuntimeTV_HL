@@ -34,7 +34,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
 #EXTINF:-1 tvg-id="sangre-fria" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/f5457ac0-sangre_fria_1920x1080_0.jpg" group-title="" , Sangre Fría
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6130
 #EXTINF:-1 tvg-id="/esmytime-movie-network" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg" group-title="" , MyTime Movie Network
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=188.79.101.71
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=149.102.236.246
 #EXTINF:-1 tvg-id="/esruntime-romance" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance_16x9.jpg" group-title="" , Runtime Romance
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
 #EXTINF:-1 tvg-id="corazon" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/corazon_1920x1080.png" group-title="" , Corazón
