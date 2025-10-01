@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz"
-#EXTINF:-1 tvg-id="/esruntime" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_es_1920x1080_0.jpg" group-title="" , Runtime
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
+#EXTINF:-1 tvg-id="rebelde" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/QAzPD4zniCaQPONpwXrDlvNnYTRwTbefD50G-nf9KhM.jpg" group-title="" , Rebelde
+https://run-rtreb.otteravision.com/run/rtreb/rtreb.m3u8
 #EXTINF:-1 tvg-id="/esruntime-thriller" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_thriller_16x9.jpg" group-title="" , Runtime Thriller
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6120
 #EXTINF:-1 tvg-id="runtime-crimen" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_crimen_16x9.jpg" group-title="" , Runtime Crimen
