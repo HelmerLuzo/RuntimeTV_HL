@@ -5,8 +5,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5626
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5444
 #EXTINF:-1 tvg-id="feelgood" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/logo_feel_good_fila_canales_1920x1080.jpg" group-title="" , FeelGood
 https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8?DAdID={{DEVICE_ID}}
+#EXTINF:-1 tvg-id="/esaguila-roja" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/aguilaroja_c_1920x1080_0.jpg" group-title="" , Águila Roja
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15230
 #EXTINF:-1 tvg-id="cines-verdi" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/04082023_logo_verdi_tv_fila_canales_1920x1080.jpg" group-title="" , Cines Verdi
 https://daiconnect.com/live/hls/tvup/rt-cv/.m3u8?DAdID={{DEVICE_ID}}
+#EXTINF:-1 tvg-id="/esmytime-movie-network" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg" group-title="" , MyTime Movie Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=149.102.236.246
 #EXTINF:-1 tvg-id="filmco" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/filmco_-_logo_y_fondo_0.jpg" group-title="" , Film&Co
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5625
 #EXTINF:-1 tvg-id="corazon" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/corazon_1920x1080.png" group-title="" , Corazón
