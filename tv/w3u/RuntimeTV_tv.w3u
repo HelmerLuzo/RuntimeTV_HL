@@ -1,6 +1,6 @@
 {
     "name": "Runtime TV by HL",
-    "author": "Actualizada 08/01/2026 16:15",
+    "author": "Actualizada 08/01/2026 22:15",
     "epg": "https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz",
     "image": "https://helmerluzo.github.io/RuntimeTV_HL/runtime.png",
     "url": "https://helmerluzo.github.io/RuntimeTV_HL/tv/w3u/RuntimeTV_tv.w3u",
@@ -70,60 +70,6 @@
             "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_curro_jimenez_16x9_v2.jpg",
             "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3435",
             "epgId": "curro-jimenez"
-        },
-        {
-            "name": "Cines Verdi",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/04082023_logo_verdi_tv_fila_canales_1920x1080.jpg",
-            "url": "https://daiconnect.com/live/hls/tvup/rt-cv/.m3u8?DAdID={{DEVICE_ID}}",
-            "epgId": "cines-verdi"
-        },
-        {
-            "name": "Runtime Romance",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance_16x9.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056",
-            "epgId": "/esruntime-romance"
-        },
-        {
-            "name": "MyTime Movie Network",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg",
-            "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=79.159.81.224",
-            "epgId": "/esmytime-movie-network"
-        },
-        {
-            "name": "Runtime Clásicos",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_clasicos_16x9.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053",
-            "epgId": "/esruntime-clasicos"
-        },
-        {
-            "name": "Film&Co",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/filmco_-_logo_y_fondo_0.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5625",
-            "epgId": "filmco"
-        },
-        {
-            "name": "Corazón",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/corazon_1920x1080.png",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826",
-            "epgId": "corazon"
-        },
-        {
-            "name": "Runtime Thriller",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_thriller_16x9.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6120",
-            "epgId": "/esruntime-thriller"
-        },
-        {
-            "name": "Runtime Crimen",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_crimen_16x9.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527",
-            "epgId": "runtime-crimen"
-        },
-        {
-            "name": "Sangre Fría",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/f5457ac0-sangre_fria_1920x1080_0.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6130",
-            "epgId": "sangre-fria"
         }
     ]
 }
