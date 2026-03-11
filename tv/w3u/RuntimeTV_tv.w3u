@@ -1,6 +1,6 @@
 {
     "name": "Runtime TV by HL",
-    "author": "Actualizada 11/03/2026 16:15",
+    "author": "Actualizada 11/03/2026 22:15",
     "epg": "https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz",
     "image": "https://helmerluzo.github.io/RuntimeTV_HL/runtime.png",
     "url": "https://helmerluzo.github.io/RuntimeTV_HL/tv/w3u/RuntimeTV_tv.w3u",
@@ -50,7 +50,7 @@
         {
             "name": "MyTime Movie Network",
             "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg",
-            "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.214.97.125",
+            "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.214.97.232",
             "epgId": "/esmytime-movie-network"
         },
         {
@@ -103,7 +103,7 @@
         },
         {
             "name": "Pitufo TV",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/qCJ6VNjNE7Wza9XCwhn3zy06xsiroPwJTWhjpGqNJ-o.jpg",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/VCelpUsQlE3p4isHeF8xqVjf1NcR7Q_qeU0_dYjlOPc.jpg",
             "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5444",
             "epgId": "pitufo-tv"
         },
